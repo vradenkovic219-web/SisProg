@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\faks\\RII\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat\\SistemskoPrviDomaci\\WebServerC#.csproj",
+      "projectUniqueName": "D:\\faks\\RII\\III godina\\VI semestar\\Sistemsko programiranje\\GitHub\\SistemskoProgramiranj\\SistemskoPrviDomaci\\WebServerC#.csproj",
       "projectName": "WebServerC#",
-      "projectPath": "D:\\faks\\RII\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat\\SistemskoPrviDomaci\\WebServerC#.csproj",
+      "projectPath": "D:\\faks\\RII\\III godina\\VI semestar\\Sistemsko programiranje\\GitHub\\SistemskoProgramiranj\\SistemskoPrviDomaci\\WebServerC#.csproj",
       "packagesPath": "C:\\Users\\vrade\\.nuget\\packages\\",
-      "outputPath": "D:\\faks\\RII\\III godina\\VI semestar\\Sistemsko programiranje\\Projekat\\SistemskoPrviDomaci\\obj\\",
+      "outputPath": "D:\\faks\\RII\\III godina\\VI semestar\\Sistemsko programiranje\\GitHub\\SistemskoProgramiranj\\SistemskoPrviDomaci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vrade\\AppData\\Roaming\\NuGet\\NuGet.Config",

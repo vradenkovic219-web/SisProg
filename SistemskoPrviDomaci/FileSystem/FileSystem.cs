@@ -1,4 +1,3 @@
-// FileSystem.cs
 using System.Collections.Concurrent;
 
 public class FileSystem
@@ -16,14 +15,13 @@ public class FileSystem
 
     public int GetWordCount(string filename)
     {
-        // Prva provjera - bez locka (brzo)
+
         var cached = kes.Get(filename);
         if(cached != null)
         {
             return cached.Value;
         }
 
-        // Dobavi lock specifican za ovaj fajl
         var semaphore = fileLocks.GetOrAdd(filename, _ => new SemaphoreSlim(1, 1));
         
         semaphore.Wait();

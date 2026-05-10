@@ -47,8 +47,8 @@ class ServerTester:
         print(f"{test_name} - Rezultati")
         print(f"{'*'*70}")
         print(f"Ukupno zahteva:      {self.total_requests}")
-        print(f"Uspešni:             {self.successful_requests}")
-        print(f"Neuspešni:           {self.failed_requests}")
+        print(f"Uspesni:             {self.successful_requests}")
+        print(f"Neuspesni:           {self.failed_requests}")
         print(f"Trajanje:            {duration:.2f}s")
         print(f"Propusnost:          {self.total_requests/duration:.2f} req/s")
         
@@ -92,7 +92,7 @@ def test_case_1(num_threads=100):
 
 def test_case_2(num_requests=200):
     
-    print(f"\nTEST 2: Različiti fajlovi sekvencijalno")
+    print(f"\nTEST 2: Razliciti fajlovi sekvencijalno")
     print(f"   Zahteva: {num_requests}, Velicina kesa: 100")
     
     tester = ServerTester()
@@ -148,7 +148,7 @@ def test_case_4(num_bursts=5, threads_per_burst=50, delay_between_bursts=2):
     
     print(f"\nTEST 4: BURST LOAD - Spike testing")
     print(f"   Talasa: {num_bursts}, Threadova/talas: {threads_per_burst}")
-    print(f"   Pauza između: {delay_between_bursts}s")
+    print(f"   Pauza izmedju: {delay_between_bursts}s")
     
     tester = ServerTester()
     all_files = [f"f{i}.txt" for i in range(1, 51)]
@@ -230,7 +230,7 @@ def main():
     else:
         print("Nepostojeca opcija!")
     
-    print("\nTestiranje završeno!")
+    print("\nTestiranje zavrseno!")
 
 
 if __name__ == "__main__":

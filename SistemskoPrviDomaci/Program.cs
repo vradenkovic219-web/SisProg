@@ -10,7 +10,6 @@ class Program
 
         var fileSystem = new FileSystem(rootFolder, cacheCapacity);
 
-        // HttpListener na portu 5050
         var listener = new HttpListener();
         listener.Prefixes.Add("http://localhost:5050/");
         
