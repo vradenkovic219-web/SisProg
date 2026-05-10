@@ -1,0 +1,37 @@
+Tema dokumenta: Baze podataka
+
+Operativni sistem raspoređuje procese između procesorskih jezgara. Konfiguracija. Implementacija koristi LinkedList i Dictionary za LRU keš. Procesiranje. Student je implementirao algoritam za efikasno pretraživanje fajlova. Aplikacija vrši brojanje Reči koje imaju više od pet slova.
+
+Keširanje rezultata značajno poboljšava performanse sistema. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. HTTP server prihvata zahteve preko TCP konekcije. Student je implementirao algoritam za efikasno pretraživanje fajlova. Analiza. HTTP server prihvata zahteve preko TCP konekcije. Server obrađuje veliki broj zahteva koristeći više thread-ova.
+
+Implementacija koristi LinkedList i Dictionary za LRU keš. Thread-safe strukture podataka sprečavaju race condition probleme. Server obrađuje veliki broj zahteva koristeći više thread-ova. Procesiranje. Različiti klijenti mogu paralelno pristupati serveru. Arhitektura. Računarski sistem koristi memorijski keš za ubrzavanje rada. HTTP server prihvata zahteve preko TCP konekcije. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Analiza.
+
+Operativni sistem raspoređuje procese između procesorskih jezgara. Implementacija koristi LinkedList i Dictionary za LRU keš. Sinhronizacija. Višestruki zahtevi mogu izazvati cache stampede problem. Optimizacija. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Distribuirani sistemi omogućavaju skaliranje aplikacija.
+
+Keširanje rezultata značajno poboljšava performanse sistema. Optimizacija. Server obrađuje veliki broj zahteva koristeći više thread-ova. Optimizacija. Optimizacija algoritma smanjuje broj pristupa disku. Implementacija. Operativni sistem raspoređuje procese između procesorskih jezgara. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Višestruki zahtevi mogu izazvati cache stampede problem. Implementacija koristi LinkedList i Dictionary za LRU keš. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima.
+
+Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Distribucija. Optimizacija algoritma smanjuje broj pristupa disku. Performanse. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Thread-safe strukture podataka sprečavaju race condition probleme. Komunikacija.
+
+Keširanje rezultata značajno poboljšava performanse sistema. Arhitektura. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Arhitektura. Aplikacija vrši brojanje Reči koje imaju više od pet slova.
+
+Optimizacija algoritma smanjuje broj pristupa disku. Različiti klijenti mogu paralelno pristupati serveru. Arhitektura. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Konfiguracija. Implementacija koristi LinkedList i Dictionary za LRU keš. Keširanje rezultata značajno poboljšava performanse sistema. Keširanje rezultata značajno poboljšava performanse sistema. Sinhronizacija. Korisnik je poslao zahtev za obradu tekstualnog dokumenta.
+
+Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Operativni sistem raspoređuje procese između procesorskih jezgara. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Sinhronizacija. Server obrađuje veliki broj zahteva koristeći više thread-ova. Konfiguracija.
+
+Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Arhitektura. Računarski sistem koristi memorijski keš za ubrzavanje rada. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Procesiranje. Različiti klijenti mogu paralelno pristupati serveru. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Implementacija.
+
+Različiti klijenti mogu paralelno pristupati serveru. Analiza. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Analiza. Višestruki zahtevi mogu izazvati cache stampede problem. Performanse. Višestruki zahtevi mogu izazvati cache stampede problem. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Optimizacija algoritma smanjuje broj pristupa disku. Konfiguracija.
+
+Optimizacija algoritma smanjuje broj pristupa disku. Višestruki zahtevi mogu izazvati cache stampede problem. Sinhronizacija. Različiti klijenti mogu paralelno pristupati serveru. Arhitektura. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Arhitektura. HTTP server prihvata zahteve preko TCP konekcije. Sinhronizacija.
+
+Aplikacija vrši brojanje Reči koje imaju više od pet slova. Višestruki zahtevi mogu izazvati cache stampede problem. Operativni sistem raspoređuje procese između procesorskih jezgara. Optimizacija algoritma smanjuje broj pristupa disku. Server obrađuje veliki broj zahteva koristeći više thread-ova. Konfiguracija. Optimizacija algoritma smanjuje broj pristupa disku. Različiti klijenti mogu paralelno pristupati serveru. Komunikacija.
+
+Distribuirani sistemi omogućavaju skaliranje aplikacija. Operativni sistem raspoređuje procese između procesorskih jezgara. Thread-safe strukture podataka sprečavaju race condition probleme. Računarski sistem koristi memorijski keš za ubrzavanje rada. Distribucija. Server obrađuje veliki broj zahteva koristeći više thread-ova.
+
+Aplikacija vrši brojanje Reči koje imaju više od pet slova. Analiza. Student je implementirao algoritam za efikasno pretraživanje fajlova. Analiza. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Server obrađuje veliki broj zahteva koristeći više thread-ova. Optimizacija. Optimizacija algoritma smanjuje broj pristupa disku. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Sinhronizacija.
+
+Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Računarski sistem koristi memorijski keš za ubrzavanje rada. Implementacija koristi LinkedList i Dictionary za LRU keš. Optimizacija. Višestruki zahtevi mogu izazvati cache stampede problem. Optimizacija. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Performanse. Optimizacija algoritma smanjuje broj pristupa disku. Student je implementirao algoritam za efikasno pretraživanje fajlova.
+
+Program koristi asinhrono procesiranje ulazno izlaznih operacija. Distribuirani sistemi omogućavaju skaliranje aplikacija. Optimizacija algoritma smanjuje broj pristupa disku. Optimizacija. Različiti klijenti mogu paralelno pristupati serveru. Server obrađuje veliki broj zahteva koristeći više thread-ova. Performanse. Student je implementirao algoritam za efikasno pretraživanje fajlova. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Implementacija koristi LinkedList i Dictionary za LRU keš. Sinhronizacija.
+
+Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Optimizacija algoritma smanjuje broj pristupa disku. Optimizacija algoritma smanjuje broj pristupa disku. Distribuirani sistemi omogućavaju skaliranje aplikacija. Komunikacija.

@@ -1,0 +1,57 @@
+Tema dokumenta: Softverski inženjering
+
+Program koristi asinhrono procesiranje ulazno izlaznih operacija. Distribucija. Server obrađuje veliki broj zahteva koristeći više thread-ova. Optimizacija algoritma smanjuje broj pristupa disku. Performanse. Različiti klijenti mogu paralelno pristupati serveru. Distribucija. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture.
+
+Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. HTTP server prihvata zahteve preko TCP konekcije. Distribucija. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Student je implementirao algoritam za efikasno pretraživanje fajlova. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Distribuirani sistemi omogućavaju skaliranje aplikacija. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Različiti klijenti mogu paralelno pristupati serveru.
+
+Keširanje rezultata značajno poboljšava performanse sistema. Procesiranje. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Višestruki zahtevi mogu izazvati cache stampede problem.
+
+Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Keširanje rezultata značajno poboljšava performanse sistema. Analiza. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Operativni sistem raspoređuje procese između procesorskih jezgara. Distribucija. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Procesiranje. Distribuirani sistemi omogućavaju skaliranje aplikacija. Implementacija koristi LinkedList i Dictionary za LRU keš. Optimizacija.
+
+Aplikacija vrši brojanje Reči koje imaju više od pet slova. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Analiza. Distribuirani sistemi omogućavaju skaliranje aplikacija. Sinhronizacija. Thread-safe strukture podataka sprečavaju race condition probleme. Konfiguracija. Računarski sistem koristi memorijski keš za ubrzavanje rada. Thread-safe strukture podataka sprečavaju race condition probleme. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Arhitektura. Keširanje rezultata značajno poboljšava performanse sistema.
+
+Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Performanse. HTTP server prihvata zahteve preko TCP konekcije. Arhitektura. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Operativni sistem raspoređuje procese između procesorskih jezgara.
+
+Program koristi asinhrono procesiranje ulazno izlaznih operacija. Sinhronizacija. Različiti klijenti mogu paralelno pristupati serveru. Različiti klijenti mogu paralelno pristupati serveru. Arhitektura. Thread-safe strukture podataka sprečavaju race condition probleme. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Implementacija koristi LinkedList i Dictionary za LRU keš. Sinhronizacija.
+
+Aplikacija vrši brojanje Reči koje imaju više od pet slova. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Komunikacija.
+
+Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Implementacija. Višestruki zahtevi mogu izazvati cache stampede problem. HTTP server prihvata zahteve preko TCP konekcije. Analiza. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Računarski sistem koristi memorijski keš za ubrzavanje rada. Keširanje rezultata značajno poboljšava performanse sistema. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Student je implementirao algoritam za efikasno pretraživanje fajlova.
+
+Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Analiza. Optimizacija algoritma smanjuje broj pristupa disku. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Konfiguracija. Operativni sistem raspoređuje procese između procesorskih jezgara. Thread-safe strukture podataka sprečavaju race condition probleme. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Optimizacija algoritma smanjuje broj pristupa disku.
+
+Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Keširanje rezultata značajno poboljšava performanse sistema. Aplikacija vrši brojanje Reči koje imaju više od pet slova.
+
+Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Optimizacija. Distribuirani sistemi omogućavaju skaliranje aplikacija. Thread-safe strukture podataka sprečavaju race condition probleme. Distribuirani sistemi omogućavaju skaliranje aplikacija. Thread-safe strukture podataka sprečavaju race condition probleme. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Komunikacija.
+
+Aplikacija vrši brojanje Reči koje imaju više od pet slova. Komunikacija. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Procesiranje. Različiti klijenti mogu paralelno pristupati serveru. Optimizacija algoritma smanjuje broj pristupa disku. Distribucija.
+
+Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Procesiranje. Keširanje rezultata značajno poboljšava performanse sistema. Analiza. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Različiti klijenti mogu paralelno pristupati serveru. Performanse. Server obrađuje veliki broj zahteva koristeći više thread-ova. Procesiranje. Višestruki zahtevi mogu izazvati cache stampede problem. Sinhronizacija.
+
+Program koristi asinhrono procesiranje ulazno izlaznih operacija. Student je implementirao algoritam za efikasno pretraživanje fajlova. Arhitektura. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Keširanje rezultata značajno poboljšava performanse sistema. Konfiguracija.
+
+Aplikacija vrši brojanje Reči koje imaju više od pet slova. Konfiguracija. Operativni sistem raspoređuje procese između procesorskih jezgara. Računarski sistem koristi memorijski keš za ubrzavanje rada. Optimizacija. Distribuirani sistemi omogućavaju skaliranje aplikacija. Konfiguracija.
+
+Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Računarski sistem koristi memorijski keš za ubrzavanje rada.
+
+Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Operativni sistem raspoređuje procese između procesorskih jezgara. Različiti klijenti mogu paralelno pristupati serveru.
+
+Server obrađuje veliki broj zahteva koristeći više thread-ova. Analiza. Thread-safe strukture podataka sprečavaju race condition probleme. Optimizacija algoritma smanjuje broj pristupa disku. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Distribuirani sistemi omogućavaju skaliranje aplikacija. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Implementacija.
+
+Thread-safe strukture podataka sprečavaju race condition probleme. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Višestruki zahtevi mogu izazvati cache stampede problem.
+
+Student je implementirao algoritam za efikasno pretraživanje fajlova. Distribuirani sistemi omogućavaju skaliranje aplikacija. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Sinhronizacija.
+
+HTTP server prihvata zahteve preko TCP konekcije. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Sinhronizacija. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Thread-safe strukture podataka sprečavaju race condition probleme. Operativni sistem raspoređuje procese između procesorskih jezgara. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija.
+
+Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Sinhronizacija. Server obrađuje veliki broj zahteva koristeći više thread-ova. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Različiti klijenti mogu paralelno pristupati serveru.
+
+Računarski sistem koristi memorijski keš za ubrzavanje rada. Operativni sistem raspoređuje procese između procesorskih jezgara. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Performanse. Operativni sistem raspoređuje procese između procesorskih jezgara. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade.
+
+Distribuirani sistemi omogućavaju skaliranje aplikacija. Različiti klijenti mogu paralelno pristupati serveru. Implementacija. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Konfiguracija. Operativni sistem raspoređuje procese između procesorskih jezgara. Operativni sistem raspoređuje procese između procesorskih jezgara. Optimizacija algoritma smanjuje broj pristupa disku. Arhitektura.
+
+Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Različiti klijenti mogu paralelno pristupati serveru. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Procesiranje.
+
+Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Konfiguracija. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Analiza. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Implementacija. Aplikacija vrši brojanje Reči koje imaju više od pet slova.
+
+Keširanje rezultata značajno poboljšava performanse sistema. Arhitektura. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Komunikacija. Računarski sistem koristi memorijski keš za ubrzavanje rada. HTTP server prihvata zahteve preko TCP konekcije. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Sinhronizacija. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Performanse. Različiti klijenti mogu paralelno pristupati serveru.

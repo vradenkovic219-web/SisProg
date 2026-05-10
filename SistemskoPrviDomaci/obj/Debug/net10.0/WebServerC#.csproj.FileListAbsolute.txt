@@ -1,0 +1,28 @@
+C:\Users\vrade\Desktop\WebServerC#\bin\Debug\net10.0\WebServerC#.exe
+C:\Users\vrade\Desktop\WebServerC#\bin\Debug\net10.0\WebServerC#.deps.json
+C:\Users\vrade\Desktop\WebServerC#\bin\Debug\net10.0\WebServerC#.runtimeconfig.json
+C:\Users\vrade\Desktop\WebServerC#\bin\Debug\net10.0\WebServerC#.dll
+C:\Users\vrade\Desktop\WebServerC#\bin\Debug\net10.0\WebServerC#.pdb
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\WebServerC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\WebServerC#.AssemblyInfoInputs.cache
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\WebServerC#.AssemblyInfo.cs
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\WebServerC#.csproj.CoreCompileInputs.cache
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\WebServerC#.dll
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\refint\WebServerC#.dll
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\WebServerC#.pdb
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\WebServerC#.genruntimeconfig.cache
+C:\Users\vrade\Desktop\WebServerC#\obj\Debug\net10.0\ref\WebServerC#.dll
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\bin\Debug\net10.0\WebServerC#.exe
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\bin\Debug\net10.0\WebServerC#.deps.json
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\bin\Debug\net10.0\WebServerC#.runtimeconfig.json
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\bin\Debug\net10.0\WebServerC#.dll
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\bin\Debug\net10.0\WebServerC#.pdb
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\WebServerC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\WebServerC#.AssemblyInfoInputs.cache
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\WebServerC#.AssemblyInfo.cs
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\WebServerC#.csproj.CoreCompileInputs.cache
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\WebServerC#.dll
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\refint\WebServerC#.dll
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\WebServerC#.pdb
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\WebServerC#.genruntimeconfig.cache
+D:\faks\RII\III godina\VI semestar\Sistemsko programiranje\Projekat\SistemskoPrviDomaci\obj\Debug\net10.0\ref\WebServerC#.dll
