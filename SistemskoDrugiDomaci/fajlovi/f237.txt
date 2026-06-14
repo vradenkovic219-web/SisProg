@@ -1,0 +1,35 @@
+Tema dokumenta: Paralelno programiranje
+
+Aplikacija vrši brojanje Reči koje imaju više od pet slova. Analiza. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Arhitektura. Operativni sistem raspoređuje procese između procesorskih jezgara. Procesiranje. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Performanse.
+
+Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Keširanje rezultata značajno poboljšava performanse sistema. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade.
+
+Implementacija koristi LinkedList i Dictionary za LRU keš. Operativni sistem raspoređuje procese između procesorskih jezgara. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Optimizacija. HTTP server prihvata zahteve preko TCP konekcije. Korisnik je poslao zahtev za obradu tekstualnog dokumenta.
+
+Student je implementirao algoritam za efikasno pretraživanje fajlova. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Analiza. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Optimizacija. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Implementacija koristi LinkedList i Dictionary za LRU keš.
+
+Implementacija koristi LinkedList i Dictionary za LRU keš. Arhitektura. Keširanje rezultata značajno poboljšava performanse sistema. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Sinhronizacija. Optimizacija algoritma smanjuje broj pristupa disku.
+
+Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Implementacija. Optimizacija algoritma smanjuje broj pristupa disku. Operativni sistem raspoređuje procese između procesorskih jezgara. Aplikacija vrši brojanje Reči koje imaju više od pet slova. Komunikacija. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Analiza. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Procesiranje. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Optimizacija. Thread-safe strukture podataka sprečavaju race condition probleme. Analiza.
+
+Optimizacija algoritma smanjuje broj pristupa disku. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Arhitektura. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Distribucija. Distribuirani sistemi omogućavaju skaliranje aplikacija. Sinhronizacija.
+
+HTTP server prihvata zahteve preko TCP konekcije. Različiti klijenti mogu paralelno pristupati serveru. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Datoteka sadrži veliki broj Rečenica koje počinju Velikim slovom. Procesiranje. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Konfiguracija. Različiti klijenti mogu paralelno pristupati serveru.
+
+Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Procesiranje. Server obrađuje veliki broj zahteva koristeći više thread-ova. Arhitektura. Keširanje rezultata značajno poboljšava performanse sistema. Implementacija koristi LinkedList i Dictionary za LRU keš. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Optimizacija.
+
+Višestruki zahtevi mogu izazvati cache stampede problem. Računarski sistem koristi memorijski keš za ubrzavanje rada. Optimizacija algoritma smanjuje broj pristupa disku. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Korisnik je poslao zahtev za obradu tekstualnog dokumenta.
+
+Distribuirani sistemi omogućavaju skaliranje aplikacija. Student je implementirao algoritam za efikasno pretraživanje fajlova. Keširanje rezultata značajno poboljšava performanse sistema. Student je implementirao algoritam za efikasno pretraživanje fajlova. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Arhitektura.
+
+Thread-safe strukture podataka sprečavaju race condition probleme. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Optimizacija. Thread-safe strukture podataka sprečavaju race condition probleme.
+
+Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Distribucija. Thread-safe strukture podataka sprečavaju race condition probleme. Performanse. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Sinhronizacija. Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Operativni sistem raspoređuje procese između procesorskih jezgara. Računarski sistem koristi memorijski keš za ubrzavanje rada.
+
+Operativni sistem raspoređuje procese između procesorskih jezgara. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Thread-safe strukture podataka sprečavaju race condition probleme. Thread-safe strukture podataka sprečavaju race condition probleme. Arhitektura. Program koristi asinhrono procesiranje ulazno izlaznih operacija. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Distribucija. Server obrađuje veliki broj zahteva koristeći više thread-ova.
+
+Različiti klijenti mogu paralelno pristupati serveru. Računarski sistem koristi memorijski keš za ubrzavanje rada. Konfiguracija. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade.
+
+Pravilna sinhronizacija omogućava bezbedan pristup deljenim resursima. Optimizacija algoritma smanjuje broj pristupa disku. Operativni sistem raspoređuje procese između procesorskih jezgara. Paralelno izvršavanje zadataka smanjuje ukupno vreme obrade. Korisnik je poslao zahtev za obradu tekstualnog dokumenta. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Keširanje rezultata značajno poboljšava performanse sistema. Operativni sistem raspoređuje procese između procesorskih jezgara. Analiza.
+
+Distribuirani sistemi omogućavaju skaliranje aplikacija. Moderni SSD uređaji podržavaju veliki broj paralelnih operacija. Računarski sistem koristi memorijski keš za ubrzavanje rada. Različiti klijenti mogu paralelno pristupati serveru. Sinhronizacija. Keširanje rezultata značajno poboljšava performanse sistema. Softverska arhitektura razdvaja poslovnu logiku od infrastrukture. Optimizacija algoritma smanjuje broj pristupa disku. Sinhronizacija.

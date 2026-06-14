@@ -27,7 +27,6 @@ public class FileSystem
         semaphore.Wait();
         try
         {
-            // Druga provjera - sa lockom (double-checked locking)
             cached = kes.Get(filename);
             if(cached != null)
             {
